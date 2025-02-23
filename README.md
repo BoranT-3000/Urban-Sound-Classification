@@ -1,4 +1,4 @@
-# 🎵 Urban Sound Classification  
+# 🎵 Urban Sound Classification Using Machine Learning
 Bu proje, **UrbanSound8K** veri seti kullanılarak şehir ortamında kaydedilmiş seslerin sınıflandırılmasını amaçlamaktadır. **Makine öğrenmesi modelleri** ile analiz edilmiş ve en iyi sonuçları veren algoritmalar belirlenmiştir.
 
 ## 📂 Veri Seti  
